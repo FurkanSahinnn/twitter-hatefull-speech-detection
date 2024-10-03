@@ -1,5 +1,5 @@
 # Twitter Hatefull Speech Detection
-I developed a hateful speech detection model using the dataset named "turkish offensive language detection" available on Kaggle, which can be found at this link [https://www.kaggle.com/datasets/toygarr/turkish-offensive-language-detection](https://www.kaggle.com/datasets/toygarr/turkish-offensive-language-detection). The steps I followed are as follows:  
+I developed a hateful speech detection model using the dataset named "turkish offensive language detection" available on Kaggle, which can be found at this link: [https://www.kaggle.com/datasets/toygarr/turkish-offensive-language-detection](https://www.kaggle.com/datasets/toygarr/turkish-offensive-language-detection). The steps I followed are as follows:  
 * Found a suitable dataset and reviewed it.  
 * Removed symbols like @ and # along with the accompanying text using regex.  
 * Solved the Turkish character problem.  
